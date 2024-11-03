@@ -1,2 +1,2 @@
-# OOP-CG_lab_assignment
-All practical programs of OOP and Computer Graphics(MCORC) 
+OOPCG lab assignments
+All practical programs of OOP and Computer Graphics Labwork (MCORC) 
